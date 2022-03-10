@@ -3,6 +3,7 @@ package mypkg;
 import java.util.Arrays;
 import java.util.List;
 
+//編集2
 public class MyClass1 {
 
 	public static void main(String[] args) {
