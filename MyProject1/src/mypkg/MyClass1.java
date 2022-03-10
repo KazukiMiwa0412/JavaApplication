@@ -6,7 +6,7 @@ import java.util.List;
 public class MyClass1 {
 
 	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
+		// コマンドプロンプトからの入力をリストに格納
 		List<String> list = Arrays.asList(args);
 
 		for (String object : list) {
